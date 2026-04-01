@@ -1,0 +1,51 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "BRC20 Knowledgebase",
+  "customDomain": "docs.brc20.build",
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#F7931A",
+    "light": "#F7931A",
+    "dark": "#F7931A"
+  },
+  "navigation": [
+    {
+      "group": "Overview",
+      "pages": [
+        "README",
+        "overview/what-is-brc20",
+        "overview/brc20-programmable-module",
+        "overview/historical-and-social-context",
+        "overview/existing-documentation"
+      ]
+    },
+    {
+      "group": "Architecture",
+      "pages": [
+        "architecture/what-is-brc20-point-0",
+        "architecture/mental-model-evm-developer-edition",
+        "architecture/account-and-identity-model",
+        "architecture/contract-lifecycle",
+        "architecture/writing-contracts-safely",
+        "architecture/bitcoin-native-superpowers",
+        "architecture/gas-and-cost-intuition",
+        "architecture/limitations-and-sharp-edges"
+      ]
+    },
+    {
+      "group": "Protocol",
+      "pages": [
+        "protocol/brc20",
+        "protocol/brc20-programmable-module",
+        "protocol/bis-amm"
+      ]
+    },
+    {
+      "group": "Guides",
+      "pages": [
+        "guides/deploy-a-brc20-token",
+        "guides/deploy-a-brc20-smart-contract"
+      ]
+    }
+  ]
+}
