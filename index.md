@@ -35,6 +35,7 @@ Bitcoin.
 
 - [Deploy a BRC-20 Token](guides/deploy-a-brc20-token.md)
 - [Deploy a BRC2.0 Smart Contract](guides/deploy-a-brc20-smart-contract.md)
+- [Use with AI](guides/use-with-ai.md)
 
 ## External Links
 

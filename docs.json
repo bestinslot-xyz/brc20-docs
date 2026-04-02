@@ -46,7 +46,8 @@
             "group": "Guides",
             "pages": [
               "guides/deploy-a-brc20-token",
-              "guides/deploy-a-brc20-smart-contract"
+              "guides/deploy-a-brc20-smart-contract",
+              "guides/use-with-ai"
             ]
           }
         ]
