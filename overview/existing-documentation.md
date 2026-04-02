@@ -197,8 +197,8 @@ Four major indexers provide developer APIs for BRC-20 data access.
 - **Type:** REST API documentation
 - **Source:** Official
 - **Authentication:** JWT Bearer token
-- **Key endpoints:** /v1/indexer/brc20/list, /v1/indexer/brc20/{ticker}/info,
-  /v1/indexer/brc20/{ticker}/holders, /v2/inscribe/order/create/brc20-\*
+- **Key endpoints:** `/v1/indexer/brc20/list`, `/v1/indexer/brc20/{ticker}/info`,
+  `/v1/indexer/brc20/{ticker}/holders`, `/v2/inscribe/order/create/brc20-*`
 
 ### OKX API
 
