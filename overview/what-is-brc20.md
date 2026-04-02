@@ -1,3 +1,7 @@
+---
+title: "What is BRC-20?"
+---
+
 # What is BRC-20?
 
 BRC-20 is a **metaprotocol** for fungible tokens on Bitcoin, leveraging the

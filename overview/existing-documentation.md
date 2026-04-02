@@ -1,3 +1,7 @@
+---
+title: "Existing Documentation"
+---
+
 # Existing Documentation
 
 ## Primary protocol specifications

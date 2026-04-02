@@ -1,3 +1,7 @@
+---
+title: "BRC20 Programmable Module"
+---
+
 # BRC20 Programmable Module
 
 BRC2.0 extends BRC-20's inscription-based token standard with an

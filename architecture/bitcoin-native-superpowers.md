@@ -1,3 +1,7 @@
+---
+title: "Bitcoin-Native Superpowers"
+---
+
 # Bitcoin-Native Superpowers
 
 By leveraging Bitcoin as the base layer, smart contracts gain abilities that are

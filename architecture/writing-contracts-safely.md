@@ -1,3 +1,7 @@
+---
+title: "Writing Contracts Safely"
+---
+
 # Writing Contracts Safely
 
 Most Solidity contracts can be deployed and executed without modification.

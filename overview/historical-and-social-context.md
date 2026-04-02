@@ -1,3 +1,7 @@
+---
+title: "Historical and Social Context"
+---
+
 # Historical and Social Context
 
 ## **The Ordinals Catalyst (2023)**

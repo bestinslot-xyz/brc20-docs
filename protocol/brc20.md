@@ -1,3 +1,7 @@
+---
+title: "BRC-20"
+---
+
 # BRC-20
 
 **BRC20** is a token standard built on top of the **Bitcoin Ordinals Protocol**,

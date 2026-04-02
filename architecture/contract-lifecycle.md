@@ -1,3 +1,7 @@
+---
+title: "Contract Lifecycle"
+---
+
 # Contract Lifecycle
 
 Smart contracts follow a familiar lifecycle, with differences primarily in how

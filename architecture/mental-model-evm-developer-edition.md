@@ -1,3 +1,7 @@
+---
+title: "Mental Model: EVM Developer Edition"
+---
+
 # Mental Model: EVM Developer Edition
 
 The simplest way to think about this system is:

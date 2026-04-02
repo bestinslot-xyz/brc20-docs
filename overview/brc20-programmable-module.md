@@ -1,3 +1,7 @@
+---
+title: "BRC20 Programmable Module"
+---
+
 # BRC20 Programmable Module
 
 BRC2.0 is a programmable execution layer built on top of BRC-20, adding

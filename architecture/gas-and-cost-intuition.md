@@ -1,3 +1,7 @@
+---
+title: "Gas and Cost Intuition"
+---
+
 # Gas and Cost Intuition
 
 While there is no native gas token, execution is **still limited and metered**.
