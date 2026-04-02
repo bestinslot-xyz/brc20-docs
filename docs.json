@@ -17,7 +17,7 @@
           {
             "group": "Overview",
             "pages": [
-              "README",
+              "index",
               "overview/what-is-brc20",
               "overview/brc20-programmable-module",
               "overview/historical-and-social-context",
