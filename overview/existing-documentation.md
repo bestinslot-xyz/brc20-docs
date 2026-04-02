@@ -289,7 +289,7 @@ and PSBT for marketplace transactions.
 | **Protocol**   | **Data Storage**      | **State Validation**     | **Lightning** | **Smart Contracts** |
 | BRC-20         | Witness (4MB)         | Off-chain indexers       | Limited       | None                |
 | BRC2.0         | Witness + OP_RETURN   | Off-chain indexers + EVM | Limited       | Yes (full EVM)      |
-| Runes          | OP_RETURN (<80 bytes) | UTXO-native              | Native        | None                |
+| Runes          | OP_RETURN (&lt;80 bytes) | UTXO-native              | Native        | None                |
 | RGB            | Commitments only      | Client-side              | Native        | Yes (AluVM)         |
 | Taproot Assets | Merkle roots          | Universe servers         | Native        | Limited             |
 
