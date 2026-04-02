@@ -63,7 +63,29 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Explorer",
+        "href": "https://explorer.brc20.build"
+      },
+      {
+        "tab": "Network Stats",
+        "href": "https://explorer.brc20.build/stats"
       }
-    ]
+    ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Best in Slot",
+          "icon": "gem",
+          "href": "https://bestinslot.xyz"
+        },
+        {
+          "anchor": "brc20.build",
+          "icon": "globe",
+          "href": "https://brc20.build"
+        }
+      ]
+    }
   }
 }
