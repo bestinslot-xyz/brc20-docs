@@ -9,6 +9,13 @@
     "light": "#F7931A",
     "dark": "#F7931A"
   },
+  "navbar": {
+    "links": [
+      { "label": "brc20.build", "href": "https://brc20.build" },
+      { "label": "Best in Slot", "href": "https://bestinslot.xyz" },
+      { "label": "Layer1 Foundation", "href": "https://layer1.foundation" }
+    ]
+  },
   "navigation": {
     "tabs": [
       {
@@ -75,25 +82,6 @@
         "icon": "arrow-up-right-from-square",
         "href": "https://explorer.brc20.build/stats"
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "brc20.build",
-          "icon": "bitcoin-sign",
-          "href": "https://brc20.build"
-        },
-        {
-          "anchor": "Best in Slot",
-          "icon": "https://bestinslot.xyz/favicon.ico",
-          "href": "https://bestinslot.xyz"
-        },
-        {
-          "anchor": "Layer1 Foundation",
-          "icon": "https://layer1.foundation/favicon.ico",
-          "href": "https://layer1.foundation"
-        }
-      ]
-    }
+    ]
   }
 }
