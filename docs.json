@@ -76,14 +76,19 @@
     "global": {
       "anchors": [
         {
+          "anchor": "brc20.build",
+          "icon": "bitcoin-sign",
+          "href": "https://brc20.build"
+        },
+        {
           "anchor": "Best in Slot",
           "icon": "https://bestinslot.xyz/favicon.ico",
           "href": "https://bestinslot.xyz"
         },
         {
-          "anchor": "brc20.build",
-          "icon": "bitcoin-sign",
-          "href": "https://brc20.build"
+          "anchor": "Layer1 Foundation",
+          "icon": "https://layer1.foundation/favicon.ico",
+          "href": "https://layer1.foundation"
         }
       ]
     }
