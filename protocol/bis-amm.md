@@ -2,8 +2,6 @@
 title: "BiS AMM"
 ---
 
-# **Technical Overview: AMM Sequencer Architecture**
-
 This document provides a technical overview of the AMM sequencer architecture,
 covering cryptographic primitives, settlement mechanisms, and security
 assumptions.

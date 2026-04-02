@@ -2,8 +2,6 @@
 title: "Bitcoin-Native Superpowers"
 ---
 
-# Bitcoin-Native Superpowers
-
 By leveraging Bitcoin as the base layer, smart contracts gain abilities that are
 impossible or impractical on Ethereum or other EVM chains. These “superpowers”
 let developers build Bitcoin-native dApps with deep protocol awareness.

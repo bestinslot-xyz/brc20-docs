@@ -2,8 +2,6 @@
 title: "Gas and Cost Intuition"
 ---
 
-# Gas and Cost Intuition
-
 While there is no native gas token, execution is **still limited and metered**.
 Understanding how gas works in this environment is critical for writing
 efficient contracts and predicting costs.

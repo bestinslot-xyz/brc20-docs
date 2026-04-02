@@ -2,8 +2,6 @@
 title: "Limitations and Sharp Edges"
 ---
 
-# Limitations and Sharp Edges
-
 While the system offers powerful Bitcoin-native smart contract capabilities, it
 comes with important constraints and behavioral differences that developers must
 understand.

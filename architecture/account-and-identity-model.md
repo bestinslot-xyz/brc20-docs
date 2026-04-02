@@ -2,8 +2,6 @@
 title: "Account and Identity Model"
 ---
 
-# Account and Identity Model
-
 The account model differs fundamentally from Ethereum and is important to
 understand before writing any authorization logic.
 

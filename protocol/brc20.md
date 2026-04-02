@@ -2,8 +2,6 @@
 title: "BRC-20"
 ---
 
-# BRC-20
-
 **BRC20** is a token standard built on top of the **Bitcoin Ordinals Protocol**,
 enabling the creation and trading of **fungible tokens** on the Bitcoin
 blockchain by inscribing structured **JSON data** into satoshis using ordinal

@@ -2,8 +2,6 @@
 title: "BRC20 Documentation"
 ---
 
-# BRC20 Documentation
-
 Develop applications and protocols that leverage the security and permanence of
 Bitcoin.
 

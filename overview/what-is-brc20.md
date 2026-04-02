@@ -2,8 +2,6 @@
 title: "What is BRC-20?"
 ---
 
-# What is BRC-20?
-
 BRC-20 is a **metaprotocol** for fungible tokens on Bitcoin, leveraging the
 Ordinals protocol to inscribe JSON data directly into Bitcoin transactions. A
 metaprotocol is a set of rules and standards that exist as a layer above the

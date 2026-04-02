@@ -2,8 +2,6 @@
 title: "Historical and Social Context"
 ---
 
-# Historical and Social Context
-
 ## **The Ordinals Catalyst (2023)**
 
 BRC-20 emerged in March 2023, just two months after Casey Rodarmor launched the

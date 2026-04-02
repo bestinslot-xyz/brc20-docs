@@ -2,8 +2,6 @@
 title: "BRC20 Programmable Module"
 ---
 
-# BRC20 Programmable Module
-
 BRC2.0 extends BRC-20's inscription-based token standard with an
 **EVM-compatible execution layer**, enabling smart contracts, DeFi primitives,
 and composable applications on Bitcoin. While BRC-20 provides token operations

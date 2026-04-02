@@ -2,8 +2,6 @@
 title: "Existing Documentation"
 ---
 
-# Existing Documentation
-
 ## Primary protocol specifications
 
 The foundational BRC-20 documentation exists across two authoritative sources:
