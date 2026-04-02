@@ -66,10 +66,12 @@
       },
       {
         "tab": "Explorer",
+        "icon": "arrow-up-right-from-square",
         "href": "https://explorer.brc20.build"
       },
       {
         "tab": "Network Stats",
+        "icon": "arrow-up-right-from-square",
         "href": "https://explorer.brc20.build/stats"
       }
     ],
