@@ -77,12 +77,12 @@
       "anchors": [
         {
           "anchor": "Best in Slot",
-          "icon": "gem",
+          "icon": "https://bestinslot.xyz/favicon.ico",
           "href": "https://bestinslot.xyz"
         },
         {
           "anchor": "brc20.build",
-          "icon": "globe",
+          "icon": "bitcoin-sign",
           "href": "https://brc20.build"
         }
       ]
