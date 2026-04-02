@@ -16,6 +16,9 @@
       { "label": "Layer1 Foundation", "href": "https://layer1.foundation" }
     ]
   },
+  "footer": {
+    "copyright": "© 2026 Best in Slot LLC FZ. Licensed under the Apache License 2.0."
+  },
   "navigation": {
     "tabs": [
       {
