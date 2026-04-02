@@ -12,7 +12,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Docs",
+        "tab": "Overview",
         "groups": [
           {
             "group": "Overview",
@@ -23,7 +23,12 @@
               "overview/historical-and-social-context",
               "overview/existing-documentation"
             ]
-          },
+          }
+        ]
+      },
+      {
+        "tab": "Documentation",
+        "groups": [
           {
             "group": "Architecture",
             "pages": [
