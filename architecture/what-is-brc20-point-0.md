@@ -1,5 +1,6 @@
 ---
 title: "What is BRC2.0?"
+slug: "architecture/what-is-brc2-0"
 ---
 
 BRC2.0 is **EVM execution anchored to Bitcoin**, using Ordinals inscriptions as
